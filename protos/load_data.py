@@ -29,4 +29,4 @@ def load_test_data():
 if __name__ == '__main__':
     print(load_train_data().head())
     print(load_test_data().head())
-    
+    print()
